@@ -3,6 +3,7 @@
 #
 # \author Hans J. Johnson
 #
+# It worked!
 
 SELT_REQUIRED_VERSION="2.6.6"
 
